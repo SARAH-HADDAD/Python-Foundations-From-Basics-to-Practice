@@ -49,7 +49,8 @@ The course is divided into several sessions, each focusing on crucial Python con
 - Suggestions for practical projects and further learning paths.
 
 [Slide](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Slides/session5.pdf) | [Code](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Codes/session5.ipynb)
-Happy coding, and enjoy your Python learning journey!
+
+#### Happy coding, and enjoy your Python learning journey!
 
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="190" height="190"/> </a>
