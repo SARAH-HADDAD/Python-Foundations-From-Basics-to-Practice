@@ -15,8 +15,7 @@ The course is divided into several sessions, each focusing on crucial Python con
 - Basic input and output operations.
 - Writing your first Python program.
 <br>
-[Slide](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Slides/session1.pdf)
-[Code](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Codes/session1.ipynb)
+[Slide](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Slides/session1.pdf) | [Code](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Codes/session1.ipynb)
 
 ### Session 2: Making Choices with if-else
 - Understanding conditional statements: if, elif, and else.
