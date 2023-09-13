@@ -14,6 +14,7 @@ The course is divided into several sessions, each focusing on crucial Python con
 - Learning about Python variables, data types, and basic operations.
 - Basic input and output operations.
 - Writing your first Python program.
+  
 [Slide](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Slides/session1.pdf)
 [Code](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Codes/session1.ipynb)
 
