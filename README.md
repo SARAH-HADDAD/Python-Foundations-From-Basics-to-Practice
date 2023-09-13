@@ -1,5 +1,7 @@
 # Python Foundations: From Basics to Practice 
 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="90" height="90"/> </a>
+
 Welcome to the Python Foundations course repository! This repository contains comprehensive course materials, including slides and code examples, designed to help you master Python from the ground up.
 
 ## About the Course
@@ -17,4 +19,4 @@ The course is divided into several sessions, each focusing on crucial Python con
 - **Session 5:** Useful Python Tools You'll Like
 
 Happy coding, and enjoy your Python learning journey!
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+
