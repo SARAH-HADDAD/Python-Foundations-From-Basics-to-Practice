@@ -33,7 +33,7 @@ The course is divided into several sessions, each focusing on crucial Python con
 - Working with Python data structures: lists, dictionaries, and more.
 - Solving coding challenges and exercises.
 
-### Session 5: Useful Python Tools You'll Love
+### Session 5: Useful Python Tools You'll Like
 - Exploring essential Python libraries: NumPy, Pandas, Matplotlib, and more.
 - Leveraging the power of NumPy for numerical computing.
 - Data manipulation and analysis with Pandas.
