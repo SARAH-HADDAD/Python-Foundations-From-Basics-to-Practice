@@ -23,18 +23,21 @@ The course is divided into several sessions, each focusing on crucial Python con
 - Handling different scenarios with conditional logic.
 - Real-world applications of decision-making in Python.
 
+[Slide](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Slides/session2.pdf) | [Code](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Codes/session2.ipynb)
 ### Session 3: Looping Around: Let's Repeat!
 - Introduction to loops: for and while loops.
 - Iterating over sequences and performing repetitive tasks.
 - Practical examples of using loops in Python.
 - Avoiding common loop-related mistakes.
 
+[Slide](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Slides/session3.pdf) | [Code](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Codes/session3.ipynb)
 ### Session 4: Playing with Data and Functions
 - Creating and using functions to organize your code.
 - Passing arguments and returning values from functions.
 - Working with Python data structures: lists, dictionaries, and more.
 - Solving coding challenges and exercises.
 
+[Slide](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Slides/session4.pdf) | [Code](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Codes/session4.ipynb)
 ### Session 5: Useful Python Tools You'll Like
 - Exploring essential Python libraries: NumPy, Pandas, Matplotlib, and more.
 - Leveraging the power of NumPy for numerical computing.
@@ -45,6 +48,7 @@ The course is divided into several sessions, each focusing on crucial Python con
 - Random library for random number generation.
 - Suggestions for practical projects and further learning paths.
 
+[Slide](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Slides/session5.pdf) | [Code](https://github.com/SARAH-HADDAD/Python-Foundations-From-Basics-to-Practice/blob/main/Codes/session5.ipynb)
 Happy coding, and enjoy your Python learning journey!
 
 
