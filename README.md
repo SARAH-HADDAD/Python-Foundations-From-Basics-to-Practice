@@ -12,6 +12,7 @@ The course is divided into several sessions, each focusing on crucial Python con
 - Introduction to Python and its importance in today's technology landscape.
 - Setting up your Python development environment.
 - Learning about Python variables, data types, and basic operations.
+- Basic input and output operations.
 - Writing your first Python program.
 
 ### Session 2: Making Choices with if-else
@@ -37,6 +38,10 @@ The course is divided into several sessions, each focusing on crucial Python con
 - Leveraging the power of NumPy for numerical computing.
 - Data manipulation and analysis with Pandas.
 - Visualizing data with Matplotlib.
+- Math library for mathematical operations.
+- Time library for working with time-related functions.
+- Random library for random number generation.
+- Suggestions for practical projects and further learning paths.
 
 Happy coding, and enjoy your Python learning journey!
 
